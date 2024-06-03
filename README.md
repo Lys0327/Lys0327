@@ -10,13 +10,13 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  </tr>
  <tr>
  <td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">餐旅系</a></td>
- <td><a href="https://www.youtube.com/watch?v=dK9rBfbUETw">看我</a></td>
+ <td><a href="https://www.youtube.com/watch?v=dK9rBfbUETw">選修</a></td>
  <td><a href="https://github.com/Lys0327/bigDataProcess">巨量資料處理</a></td>
  <td>楊 O 君</td>
  </tr>
  <tr>
  <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">休閒</a></td>
- <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
+ <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">必修</a></td>
  <td><a href="https://github.com/Lys0327/bigDataProcess">電腦概論與AI發展</a></td>
  <td>李 O 傑</td>
  </tr>
