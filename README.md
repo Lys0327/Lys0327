@@ -5,8 +5,8 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <tr>
  <th>系級</th>
  <th><img src="working.jpeg"></th>
- <th><a href="">作業</a></th>
- <th><a href="https://chat.openai.com/">好友</a></th>
+ <th>作業</th>
+ <th>好友</th>
  </tr>
  <tr>
  <td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">餐旅系</a></td>
